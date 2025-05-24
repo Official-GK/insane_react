@@ -25,18 +25,18 @@ function App() {
             The Renaissance laid the foundation for modern Western culture and continues to influence our world today through its emphasis on human potential, 
             scientific inquiry, and artistic expression.
           </p>
-          <h2>Information About Cars</h2>
+          <h2>Information About Bikes</h2>
           <p>
-            Cars have revolutionized transportation since their invention in the late 19th century. They have become an integral part of modern life, offering convenience, speed, and comfort.
+            Bikes have been a popular mode of transportation and recreation for over a century. They offer an eco-friendly alternative to cars and promote physical fitness.
           </p>
           <p>
-            Key aspects of cars include:
+            Key aspects of bikes include:
           </p>
           <ul>
-            <li>Various types: Sedans, SUVs, Trucks, and Sports Cars</li>
-            <li>Technological advancements: Electric vehicles, autonomous driving, and hybrid engines</li>
-            <li>Environmental impact: Efforts to reduce emissions and improve fuel efficiency</li>
-            <li>Cultural significance: Cars as symbols of freedom and status</li>
+            <li>Various types: Mountain bikes, Road bikes, and Electric bikes</li>
+            <li>Technological advancements: Lightweight materials and advanced gear systems</li>
+            <li>Environmental impact: Zero emissions and sustainable transportation</li>
+            <li>Cultural significance: Bikes as symbols of freedom and adventure</li>
           </ul>
         </div>
       </header>
