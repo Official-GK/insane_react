@@ -25,6 +25,19 @@ function App() {
             The Renaissance laid the foundation for modern Western culture and continues to influence our world today through its emphasis on human potential, 
             scientific inquiry, and artistic expression.
           </p>
+          <h2>Information About Cars</h2>
+          <p>
+            Cars have revolutionized transportation since their invention in the late 19th century. They have become an integral part of modern life, offering convenience, speed, and comfort.
+          </p>
+          <p>
+            Key aspects of cars include:
+          </p>
+          <ul>
+            <li>Various types: Sedans, SUVs, Trucks, and Sports Cars</li>
+            <li>Technological advancements: Electric vehicles, autonomous driving, and hybrid engines</li>
+            <li>Environmental impact: Efforts to reduce emissions and improve fuel efficiency</li>
+            <li>Cultural significance: Cars as symbols of freedom and status</li>
+          </ul>
         </div>
       </header>
     </div>
